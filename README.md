@@ -1,3 +1,8 @@
+WARNGING:  
+add patch from https://git.libav.org/?p=libav.git;a=commitdiff_plain;h=141c960e21d2860e354f9b90df136184dd00a9a8;hp=c8bca9fe466f810fd484e2c6db7ef7bc83b5a943  at branch n3.4.11.patchfdk
+
+
+
 FFmpeg README
 =============
 
